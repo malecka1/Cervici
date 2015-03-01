@@ -1,0 +1,9 @@
+# Class files #
+cervici/*.class
+cervici/GUI/*.class
+
+# Package Files #
+*.jar
+
+# other #
+githubCervici.gif
