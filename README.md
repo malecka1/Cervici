@@ -9,7 +9,8 @@
   Default difficulty is set to Normal, but there are three other options.
   There is also in-game Manual with controls. The player who survive
   the longest is the winner and can also beat current Best Score.
-
+  
+  ![Screenshots](http://www.hockey.maweb.eu/githubCervici.gif)
 
 ### Documentation
 
@@ -44,4 +45,4 @@
 
 ### Developed By
 
-  Maleček Kamil, malecek.kamil@gmail.com, 2015
+  Maleček Kamil, 2015
